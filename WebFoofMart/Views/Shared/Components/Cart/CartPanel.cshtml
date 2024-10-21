@@ -1,0 +1,34 @@
+﻿@model WebFoofMart.Models.DataModels.CartModel
+<style>
+    .cart-icon {
+        position: relative;
+        display: inline-block;
+        color: #007bff; /* Custom color for the icon */
+    }
+
+    .cart-icon-svg {
+        fill: #007bff; /* Set the icon color */
+        width: 40px; /* Adjust icon size as needed */
+        height: 40px;
+    }
+
+    .cart-count {
+        position: absolute;
+        top: -10px; /* Position the number above the icon */
+        right: -10px;
+        background-color: red; /* Background color of the number */
+        color: white; /* Number text color */
+        border-radius: 50%;
+        padding: 4px 8px;
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 1;
+    }
+
+</style>
+<a asp-action="CheckOut" asp-controller="Cart" class="cart-icon border-0 bg-transparent d-flex flex-column gap-2 lh-1 position-relative">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" class="cart-icon-svg">
+        <path d="M7 18c-1.104 0-1.99.896-1.99 2s.886 2 1.99 2c1.104 0 2-.896 2-2s-.896-2-2-2zm10 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-9.83-2h11.66l.96-4h-13.58l1.96-8h12v-2h-12.57l-1.94 8h-1.93v2h2.03l-.69 4z" />
+    </svg>
+    <span class="cart-count">@Model.Quantity</span>
+</a>

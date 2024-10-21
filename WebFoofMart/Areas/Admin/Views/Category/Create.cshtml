@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+}
+@model WebFoofMart.Models.DataModels.Category
+<h2>Thêm mới Danh Mục</h2>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <form class="forms-sample" action="Save" method="post">
+                            <div class="row">
+                                <!-- Left side of the form -->
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label for="exampleInputUsername1">Tên Danh Mục</label>
+                                        <input type="text" class="form-control" asp-for="CategoryName">
+                                       
+                                    </div>
+
+                                </div>
+
+                                <!-- Right side of the form -->
+                           </div>
+
+                            <!-- Submit and Cancel buttons -->
+                            <div class="mt-4">
+                                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                                <button type="button" class="btn btn-light">Cancel</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

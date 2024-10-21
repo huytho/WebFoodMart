@@ -1,0 +1,78 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    ViewBag.Title = "Cập nhật sản phẩm";
+}
+@model WebFoofMart.Models.DataModels.Product
+<h2>Cập Nhật sản phẩm</h2>
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <form class="forms-sample" action="Edit" method="post">
+                        <div class="row">
+                            <!-- Left side of the form -->
+                            <div class="col-md-6">
+                                <input type="hidden" asp-for="ProductId" />
+                                <div class="form-group">
+                                    <label for="exampleInputUsername1">Tên Sản Phẩm</label>
+                                    <input type="text" class="form-control" asp-for="ProductName" placeholder="Nhập Tên Sản Phẩm">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputUsername1">Ảnh</label>
+
+
+                                    <input type="file" class="form-control" asp-for="Image" id="imageInput" accept="image/*">
+                                    <img id="imagePreview" src="/upload/product/@Model.Image" style="max-width: 40% ; height:auto" />
+                                </div>
+
+                            </div>
+
+                            <!-- Right side of the form -->
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Giá</label>
+                                    <input type="text" class="form-control" asp-for="Price">
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Giá Sale</label>
+                                    <input type="text" class="form-control" asp-for="SalePrice">
+                                </div>
+                                <div class="form-check form-check-flat form-check-primary">
+                                    <label for="CategoryID">Chọn Phòng Ban</label>
+                                    <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(ViewBag.categories, "CategoryId", "CategoryName"))">
+                                        <option value="">-- Chọn Phòng ban --</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Submit and Cancel buttons -->
+                        <div class="mt-4">
+                            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                            <button type="button" class="btn btn-light">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById('imageInput').addEventListener('change', function (event) {
+        const file = event.target.files[0];  // Get the selected file
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                // Set the image preview to the base64 image data
+                document.getElementById('imagePreview').src = e.target.result;
+            };
+            reader.readAsDataURL(file);  // Convert the file to a Data URL (base64)
+        }
+    });
+</script>

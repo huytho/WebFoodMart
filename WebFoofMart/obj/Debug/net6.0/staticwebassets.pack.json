@@ -1,0 +1,1453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebFoofMart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebFoofMart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\css\\style.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\other\\navbar-cover.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\other\\navbar-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\images\\other\\navbar-cover2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\other\\navbar-cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\Avatar.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\Avatar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-02.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-02.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-02.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-03.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-03.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-04.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-04.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-04.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-05.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-05.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-face-05.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-face-05.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-01.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-01.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-01.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-02.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-02.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-02.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-03.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-03.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-04.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\avatar\\avatar-illustrated-04.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-illustrated-04.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\01.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\01.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\01.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\02.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\02.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\02.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\03.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\03.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\03.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\04.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\categories\\04.webp",
+      "PackagePath": "staticwebassets\\Admin\\img\\categories\\04.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\404.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\2 User.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\2 User.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\3-User-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\3-User-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\3-User-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\3-User-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Activity.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Activity.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\AddUser.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\AddUser.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Down.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Down2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Down2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Down3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Down3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-DownCircle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-DownCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-DownSquare.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-DownSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Left.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Left2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Left2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Left3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Left3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-LeftCircle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-LeftCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-LeftSquare.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-LeftSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Right.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Right2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Right2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Right3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Right3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-RightCircle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-RightCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-RightSquare.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-RightSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Up.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Up2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Up2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-Up3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-Up3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-UpCircle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-UpCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrow-UpSquare.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrow-UpSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Arrows-up-down.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Arrows-up-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Bag 3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Bag 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Bag.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Bookmark.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Buy.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Buy.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Calendar.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Call Missed.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Call Missed.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Call Silent.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Call Silent.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Call.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Call.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Calling.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Calling.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Camera.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Category-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Category-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Category-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Category-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Chart.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Chat.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Close Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Close Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Danger.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Danger.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Delete.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Delete.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Discount.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Discount.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Discovery.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Discovery.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Document-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Document-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Document-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Document-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Download.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Download.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Edit Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Edit Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Edit-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Edit-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Edit-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Edit-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Filter 2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Filter 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Filter.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Filter.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Folder-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Folder-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Folder-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Folder-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Game.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Game.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Graph.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Graph.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Heart.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Hide.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Hide.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Home-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Home-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Home-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Home-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Image 3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Image 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Image-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Image-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Image-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Image-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Info Circle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Info Circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Info Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Info Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Location.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Location.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Lock.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Lock.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Login.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Login.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Logout.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Logout.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Menu-toggle-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Menu-toggle-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Menu-toggle-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Menu-toggle-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Message-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Message-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Message-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Message-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\More Circle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\More Circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\More Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\More Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Notification-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Notification-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Notification.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Notification.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper Download.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper Download.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper Fail.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper Fail.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper Negative.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper Negative.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper Plus.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper Plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper Upload.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper Upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Paper-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Paper-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Password.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Password.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Play.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Play.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Plus.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Profile.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Scan.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Scan.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Search.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Search.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Send.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Send.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Setting-gray.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Setting-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Setting-white.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Setting-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Settings-line.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Settings-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Shield Done.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Shield Done.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Shield Fail.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Shield Fail.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Show.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Show.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Star.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Swap.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Swap.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Tick Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Tick Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Ticket Star.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Ticket Star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Ticket.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Ticket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Time Square.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Time Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\TimeCircle.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\TimeCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Unlock.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Upload.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Video.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Video.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Voice 3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Voice 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Voice.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Voice.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Volume Down.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Volume Down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Volume Off.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Volume Off.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Volume Up.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Volume Up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Wallet.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Bulk\\Work.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Bulk\\Work.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\GoogleDrive.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\GoogleDrive.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\Logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\baloon.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\baloon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\customers.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\customers.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\dropbox.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\image-frame.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\image-frame.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\move.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\move.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\radio.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\radio.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\img\\svg\\thumbnail.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\svg\\thumbnail.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\script.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\plugins\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\plugins\\feather.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\feather.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Resources\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Resources\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\Resources\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\ad-bg-pattern.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\ad-bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\ad-image-1.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\ad-image-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\ad-image-2.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\ad-image-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\ad-image-3.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\ad-image-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\ad-image-4.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\ad-image-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\background-pattern.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\background-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\banner-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\banner-image-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\banner-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\bg-dot-pattern.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\bg-dot-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\bg-leaves-img-pattern.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\bg-leaves-img-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\bg-leaves-pattern.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\bg-leaves-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\bg-light.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\bg-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\bg-pattern-2.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\bg-pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\gift.svg",
+      "PackagePath": "staticwebassets\\Resources\\images\\gift.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-animal-products-drumsticks.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-animal-products-drumsticks.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-bread-baguette.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-bread-baguette.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-bread-herb-flour.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-bread-herb-flour.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-soft-drinks-bottle.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-soft-drinks-bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-vegetables-broccoli.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-vegetables-broccoli.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\icon-wine-glass-bottle.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\icon-wine-glass-bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\phone.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-1.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-13.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-14.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\product-thumb-2.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\product-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-avocado.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-avocado.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-bananas.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-bananas.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-biscuits.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-biscuits.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-cucumber.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-cucumber.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-herb.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-herb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-honey.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-honey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-junk.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-junk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-milk.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-milk.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-orange-juice.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-orange-juice.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-raspberries.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-raspberries.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-tomatoes.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-tomatoes.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-tomatoketchup.png",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-tomatoketchup.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\images\\thumb-tuna.jpg",
+      "PackagePath": "staticwebassets\\Resources\\images\\thumb-tuna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Resources\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Resources\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Resources\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\js\\script.js",
+      "PackagePath": "staticwebassets\\Resources\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\Resources\\style.css",
+      "PackagePath": "staticwebassets\\Resources\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\ca-chua.png",
+      "PackagePath": "staticwebassets\\upload\\product\\ca-chua.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\cafe-sua.png",
+      "PackagePath": "staticwebassets\\upload\\product\\cafe-sua.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\chuoi.png",
+      "PackagePath": "staticwebassets\\upload\\product\\chuoi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\dua-leo.png",
+      "PackagePath": "staticwebassets\\upload\\product\\dua-leo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-dua1.png",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-dua1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-ep-dau.png",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-ep-dau.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-ep-tao.png",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-ep-tao.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-luu-1.png",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-luu-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-luu.png",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-luu.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\nuoc-tao.jpg",
+      "PackagePath": "staticwebassets\\upload\\product\\nuoc-tao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\socola-nau.png",
+      "PackagePath": "staticwebassets\\upload\\product\\socola-nau.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\WebFoofMart\\WebFoofMart\\wwwroot\\upload\\product\\sua.png",
+      "PackagePath": "staticwebassets\\upload\\product\\sua.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebFoofMart.props",
+      "PackagePath": "build\\WebFoofMart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebFoofMart.props",
+      "PackagePath": "buildMultiTargeting\\WebFoofMart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebFoofMart.props",
+      "PackagePath": "buildTransitive\\WebFoofMart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

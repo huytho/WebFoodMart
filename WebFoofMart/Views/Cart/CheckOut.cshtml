@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    double total = 0;
+}
+<div class="container-fuild">
+    <div class="row">
+        <!-- Form Column (col-6) -->
+        <div class="col-4">
+            <form asp-action="Checkout" asp-controller="Order" method="post" style="border: 1px solid #ccc; padding: 20px; border-radius: 5px;">
+            
+                <div class="form-group">
+                    <label for="fullname">Họ và  tên</label>
+                    <input value="@ViewBag.FullName" type="text" class="form-control" id="fullname" name="fullname" required placeholder="Nhập họ và tên" style="border: 1px solid #007bff; padding: 10px; border-radius: 5px; color:black">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input value="@ViewBag.Email" type="email" class="form-control" id="email" name="email" required placeholder="Nhập email" style="border: 1px solid #007bff; padding: 10px; border-radius: 5px;color:black">
+                </div>  
+                <div class="form-group">
+                    <label for="email">Số Điện Thoại:</label>
+                    <input value="@ViewBag.Phone" type="text" class="form-control" id="phone" name="phone" required placeholder="Nhập Số Điện Thoại" style="border: 1px solid #007bff; padding: 10px; border-radius: 5px;color:black">
+                </div>     
+                <div class="form-group">
+                    <label for="email">Địa Chỉ:</label>
+                    <input value="@ViewBag.Address" type="text" class="form-control" id="address" name="address" required placeholder="Nhập Địa Chỉ" style="border: 1px solid #007bff; padding: 10px; border-radius: 5px;color:black">
+                </div>  
+                <button type="submit" class="btn btn-primary">Xác nhận thanh toán</button>
+            </form>
+        </div>
+        <div class="col-8">
+            <h3 class="mb-3">Giỏ Hàng của bạn</h3>
+            @if(Model !=null && Model.Count > 0){
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Tên Sản Phẩm</th>
+            <th>Ảnh</th>
+            <th>Giá</th>
+            <th>Số Lượng</th>
+            <th>Thành Tiền</th>
+            <th>Chức Năng</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+           total += item.ThanhTien;
+            <tr>
+                <td>@item.CartName</td>
+                <td><img src="@Url.Content("/upload/product/" + item.Image)" width="100px" alt="@item.CartName" /></td>
+                <td>@item.SalePrice đ</td>
+                <td><input type="number" min="1" value="@item.Soluong" class="" data-Product-id="@item.CartId" /></td>
+                <td>@item.ThanhTien đ</td>
+                <td>
+                    <a asp-action="RemoveCart" asp-controller="Cart" asp-route-id="@item.CartId" style="color:red">
+                        xoá
+                    </a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+
+</table>
+                <div class="total-price">
+                    <h4>Tổng cộng: @total đ</h4>
+                   
+                </div>
+}
+else
+{
+    <p>Giỏ hàng của bạn đang trống!</p>
+}
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1484 @@
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CopyComplete
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\demo\lap7\khuchuytho_B9332\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofM.8B91AC74.Up2Date
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+D:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofM.8B91AC74.Up2Date
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+E:\du an\Asp.net\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CopyComplete
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+C:\Users\ADMIN\Pictures\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.Development.json
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\appsettings.json
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.staticwebassets.runtime.json
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.exe
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.deps.json
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.runtimeconfig.json
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\WebFoofMart.pdb
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Humanizer.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Common.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.AssemblyReference.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfoInputs.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.AssemblyInfo.cs
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.csproj.CoreCompileInputs.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.MvcApplicationPartsAssemblyInfo.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.RazorAssemblyInfo.cs
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.build.json
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.development.json
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.WebFoofMart.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.build.WebFoofMart.props
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebFoofMart.props
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebFoofMart.props
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\bundle\WebFoofMart.styles.css
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\scopedcss\projectbundle\WebFoofMart.bundle.scp.css
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofM.8B91AC74.Up2Date
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.dll
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\refint\WebFoofMart.dll
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.pdb
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\WebFoofMart.genruntimeconfig.cache
+E:\WebFoofMart\WebFoofMart\obj\Debug\net6.0\ref\WebFoofMart.dll
+C:\Users\ADMIN\Downloads\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\WebFoofMart\WebFoofMart\bin\Debug\net6.0\System.Formats.Asn1.dll

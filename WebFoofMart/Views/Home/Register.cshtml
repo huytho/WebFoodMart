@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model WebFoofMart.Models.DataModels.Account
+<main class="main-content" style="padding-bottom: 100px;">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="assets/images/breadcrumb/bg/1-1-1920x373.jpg">
+        <div class="container h-100">
+            <div class="row h-100 justify-content-center align-items-center">
+                <div class="col-lg-6">
+<form asp-action="Register" asp-controller="Home" method="post">
+                        <h4 class="login-title text-center mb-4" style="font-weight: 600;">Đăng Kí</h4>
+                       
+    <div class="form-group">
+        <label for="fullname">Họ và tên</label>
+        <input type="text" class="form-control" id="fullname" name="fullname" required />
+ 
+    </div>
+
+    <div class="form-group">
+        <label for="username">Tên Đăng Nhập</label>
+        <input type="text" class="form-control" id="username" name="username" required />
+    </div>
+
+    <div class="form-group">
+        <label for="password">Mật Khẩu</label>
+        <input type="password" class="form-control" id="password" name="password" required />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" name="email" required />
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Số ĐIện Thoại</label>
+        <input type="text" class="form-control" id="phone" name="phone" required />
+    </div>
+
+    <div class="form-group">
+        <label for="address">Địa Chỉ</label>
+        <input type="text" class="form-control" id="address" name="address" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng Kí</button>
+</form>
+                    <div id="error-message" class="alert alert-danger mt-3 text-center" role="alert" style="display: none; font-size: 13px;">
+                        <!-- Error messages will be displayed here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
